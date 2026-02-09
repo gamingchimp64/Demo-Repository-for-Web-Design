@@ -1,0 +1,32 @@
+h1, h2, h3, p, div { 
+  text-align: center;
+}
+
+.main_highlight {
+  color:green;
+}
+
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: gray;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: green;
+  color: white;
+}
